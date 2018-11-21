@@ -1,11 +1,19 @@
 [
-    {
+   {
         "id": 0, 
         "year": 1950, 
         "imageUrl": "img/books/theLion.jpg", 
         "title": "The Lion, the Witch and the Wardrobe", 
         "author": "C.S. Lewis",
-
+        "price": 7.99
+    }, 
+    {
+        "id": 1, 
+        "year": 1887, 
+        "imageUrl": "img/books/she.jpg", 
+        "title": "She: A history of adventure", 
+        "author": "H. Rider Haggard",
+        "price": 5.98
     }, 
     {
         "id": 2, 
@@ -13,7 +21,7 @@
         "imageUrl": "img/books/alchemist.jpg", 
         "title": "The Alchemist", 
         "author": "Paulo Coelho",
-
+        "price": 14.40
     }, 
     {
         "id": 3, 
@@ -21,7 +29,7 @@
         "imageUrl": "img/books/rye.jpg", 
         "title": "The Catcher in the Rye", 
         "author": "J.D. Salinger",
-
+        "price": 7.19
     }, 
     {
         "id": 4, 
@@ -29,14 +37,6 @@
         "imageUrl": "img/books/sherlock.jpg", 
         "title": "The Adventures of Sherlock Holmes", 
         "author": "Sir Arthur Conan Doyle",
-
-    }, 
-    {
-        "id": 5, 
-        "year": 1955, 
-        "imageUrl": "img/books/lolita.jpg", 
-        "title": "Lolita", 
-        "author": "Vladimir Nabokov",
-        "price": 9.99
+        "price": 8.99
     }
 ]
