@@ -8,14 +8,6 @@
 
     }, 
     {
-        "id": 1, 
-        "year": 1887, 
-        "imageUrl": "img/books/she.jpg", 
-        "title": "She: A history of adventure", 
-        "author": "H. Rider Haggard",
-
-    }, 
-    {
         "id": 2, 
         "year": 1988, 
         "imageUrl": "img/books/alchemist.jpg", 
