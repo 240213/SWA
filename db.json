@@ -1,0 +1,105 @@
+[
+    {
+        "id": 0, 
+        "year": 1950, 
+        "imageUrl": "img/books/theLion.jpg", 
+        "title": "The Lion, the Witch and the Wardrobe", 
+        "author": "C.S. Lewis",
+
+    }, 
+    {
+        "id": 1, 
+        "year": 1887, 
+        "imageUrl": "img/books/she.jpg", 
+        "title": "She: A history of adventure", 
+        "author": "H. Rider Haggard",
+
+    }, 
+    {
+        "id": 2, 
+        "year": 1988, 
+        "imageUrl": "img/books/alchemist.jpg", 
+        "title": "The Alchemist", 
+        "author": "Paulo Coelho",
+
+    }, 
+    {
+        "id": 3, 
+        "year": 1951, 
+        "imageUrl": "img/books/rye.jpg", 
+        "title": "The Catcher in the Rye", 
+        "author": "J.D. Salinger",
+
+    }, 
+    {
+        "id": 4, 
+        "year": 1887, 
+        "imageUrl": "img/books/sherlock.jpg", 
+        "title": "The Adventures of Sherlock Holmes", 
+        "author": "Sir Arthur Conan Doyle",
+
+    }, 
+    {
+        "id": 5, 
+        "year": 1955, 
+        "imageUrl": "img/books/lolita.jpg", 
+        "title": "Lolita", 
+        "author": "Vladimir Nabokov",
+        "price": 9.99
+    }, 
+    {
+        "id": 6, 
+        "year": 1304, 
+        "imageUrl": "img/books/nte.jpg", 
+        "title": "Divina Commedia", 
+        "author": "Dante Alighieri",
+
+    }, 
+    {
+        "id": 7, 
+        "year": 1987 , 
+        "imageUrl": "img/books/wood.jpg", 
+        "title": "Norwegian Wood", 
+        "author": "Haruki Murakami",
+
+    }, 
+    {
+        "id": 8, 
+        "year": 1813, 
+        "imageUrl": "img/books/rejudice.jpg", 
+        "title": "Pride and Prejudice", 
+        "author": "Jane Austen",
+
+    }, 
+    {
+        "id": 9,  
+        "year": 2012, 
+        "imageUrl": "img/books/goneGirl.jpg", 
+        "title": "Gone Girl", 
+        "author": "Gillian Flynn",
+
+    }, 
+    {
+        "id": 10, 
+        "year": 1925, 
+        "imageUrl": "img/books/gatsbt.jpeg", 
+        "title": "The Great Gatsby", 
+        "author": "F. Scott Fitzgerald",
+    }, 
+    {
+        "id": 11, 
+        "year": 2005, 
+        "imageUrl": "img/books/dragonTattoo.png", 
+        "title": "The Girl with the Dragon Tattoo", 
+        "author": "Stieg Larsson",
+
+    }, 
+    {
+        "id": 12, 
+        "year": 1979, 
+        "imageUrl": "img/books/flowersInTheAttic.jpg", 
+        "title": "Flowers in the Attic", 
+        "author": "V.C. Andrews",
+
+    }
+]
